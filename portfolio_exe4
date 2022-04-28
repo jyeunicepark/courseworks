@@ -6,7 +6,7 @@
     "id": "lSkfGiwFLag8"
    },
    "source": [
-    "## ISOM5160 Exercise 04 - Stock Portfolio\n",
+    "## Exercise 04 - Stock Portfolio\n",
     "\n",
     "---\n",
     "This dataset contains 5 stocks' weekly close price from 1/1/2016 to 31/12/2021, downloaded from [https://hk.finance.yahoo.com/](https://hk.finance.yahoo.com/).\n",
